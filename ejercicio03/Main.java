@@ -5,7 +5,6 @@ public class Main {
       Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un numero entre 0 y 10: "); 
         int numero = scanner.nextInt();
-        
         int factorial= 1;
         int i = numero;
          
